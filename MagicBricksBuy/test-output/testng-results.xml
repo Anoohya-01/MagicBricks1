@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="4" failed="7" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[The Browser should be launched and URL should be navigated]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on location]]>
+    </line>
+    <line>
+      <![CDATA[click on pune city]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on Buy link]]>
+    </line>
+    <line>
+      <![CDATA[The Browser should be launched and URL should be navigated]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on location]]>
+    </line>
+    <line>
+      <![CDATA[click on pune city]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on Buy link]]>
+    </line>
+    <line>
+      <![CDATA[The Browser should be launched and URL should be navigated]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on location]]>
+    </line>
+    <line>
+      <![CDATA[click on pune city]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on Buy link]]>
+    </line>
+    <line>
+      <![CDATA[The Browser should be launched and URL should be navigated]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on location]]>
+    </line>
+    <line>
+      <![CDATA[click on pune city]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on Buy link]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to see sub-options in Buy link should be displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser should be closed]]>
+    </line>
+    <line>
+      <![CDATA[The Browser should be launched and URL should be navigated]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on location]]>
+    </line>
+    <line>
+      <![CDATA[click on pune city]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on Buy link]]>
+    </line>
+    <line>
+      <![CDATA[The Browser should be launched and URL should be navigated]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on location]]>
+    </line>
+    <line>
+      <![CDATA[click on pune city]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on Buy link]]>
+    </line>
+    <line>
+      <![CDATA[The Browser should be launched and URL should be navigated]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on location]]>
+    </line>
+    <line>
+      <![CDATA[click on pune city]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on Buy link]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to click on House for sale in buy link]]>
+    </line>
+    <line>
+      <![CDATA[User should be able to navigate to house for sale page]]>
+    </line>
+    <line>
+      <![CDATA[user should click on top localities]]>
+    </line>
+    <line>
+      <![CDATA[Kalyani Nagar option selected]]>
+    </line>
+    <line>
+      <![CDATA[The Browser should be launched and URL should be navigated]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on location]]>
+    </line>
+    <line>
+      <![CDATA[click on pune city]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on Buy link]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to click on House for sale in buy link]]>
+    </line>
+    <line>
+      <![CDATA[User should be able to navigate to house for sale page]]>
+    </line>
+    <line>
+      <![CDATA[user should click on top localities]]>
+    </line>
+    <line>
+      <![CDATA[NIBM Road option selected]]>
+    </line>
+    <line>
+      <![CDATA[The Browser should be launched and URL should be navigated]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on location]]>
+    </line>
+    <line>
+      <![CDATA[click on pune city]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on Buy link]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to click on House for sale in buy link]]>
+    </line>
+    <line>
+      <![CDATA[User should be able to navigate to house for sale page]]>
+    </line>
+    <line>
+      <![CDATA[The Browser should be launched and URL should be navigated]]>
+    </line>
+    <line>
+      <![CDATA[The Browser should be launched and URL should be navigated]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on location]]>
+    </line>
+    <line>
+      <![CDATA[click on pune city]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to mouse hover on Buy link]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to click on villa in buy link]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to navigate to villa page]]>
+    </line>
+    <line>
+      <![CDATA[user should be able to click on new projects]]>
+    </line>
+    <line>
+      <![CDATA[user is navigated to new projects page]]>
+    </line>
+    <line>
+      <![CDATA[user should click on project directory and it displays all new projects]]>
+    </line>
+    <line>
+      <![CDATA[user should click on filter and click on select city]]>
+    </line>
+    <line>
+      <![CDATA[user should select BHK and click on view projects and it displays hotspots]]>
+    </line>
+    <line>
+      <![CDATA[user should click on ready to move and select any one hotspots provided below]]>
+    </line>
+    <line>
+      <![CDATA[user is navigated to the new hotspots property page]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-11-13T18:19:50 IST" name="Default suite" finished-at="2024-11-13T18:30:28 IST" duration-ms="638180">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@279fedbd]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-11-13T18:19:50 IST" name="Default test" finished-at="2024-11-13T18:30:28 IST" duration-ms="638180">
+      <class name="com.runners.CucumberRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.runners.CucumberRunner@279fedbd]" started-at="2024-11-13T18:19:50 IST" name="setUpClass" finished-at="2024-11-13T18:19:51 IST" duration-ms="687" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@70022d44]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@279fedbd]" started-at="2024-11-13T18:19:51 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T18:21:00 IST" duration-ms="68586" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user can access properties filtered by owners option"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Property Filtering"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[Element <a href="javascript:void(0);"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [73bceee7-179f-48da-a4b8-92259d3511e6, clickElement {id=b6b1b6cf-573e-4c2c-b0b3-e3f47f87c999}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 19024, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (73bceee7-179f-48da-a4b8-92259d3511e6)] -> xpath: //a[text()='₹ 50 Lac - ₹ 1 Cr']]
+Session ID: 73bceee7-179f-48da-a4b8-92259d3511e6]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: Element <a href="javascript:void(0);"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [73bceee7-179f-48da-a4b8-92259d3511e6, clickElement {id=b6b1b6cf-573e-4c2c-b0b3-e3f47f87c999}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 19024, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (73bceee7-179f-48da-a4b8-92259d3511e6)] -> xpath: //a[text()='₹ 50 Lac - ₹ 1 Cr']]
+Session ID: 73bceee7-179f-48da-a4b8-92259d3511e6
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)
+at com.stepDefinition.BackGround.user_should_be_able_to_click_on_budget_in_buy_link(BackGround.java:24)
+at ✽.user should be able to click on budget in buy link(file:///C:/Users/N%20ANOOHYA/eclipse-workspace/MagicBricksBuy/./src/test/resources/featureData/Background.feature:8)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+            <line>
+              <![CDATA[The Browser should be launched and URL should be navigated]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on location]]>
+            </line>
+            <line>
+              <![CDATA[click on pune city]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on Buy link]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@279fedbd]" started-at="2024-11-13T18:21:00 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T18:21:38 IST" duration-ms="38745" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user can access properties filtered by brokers option"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Property Filtering"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[Element <a href="javascript:void(0);"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [7b0c4bb1-7868-4481-ab6e-c621f7fdb822, clickElement {id=328b80bc-4986-474b-9892-6ab578c0b07b}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 14068, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (7b0c4bb1-7868-4481-ab6e-c621f7fdb822)] -> xpath: //a[text()='₹ 50 Lac - ₹ 1 Cr']]
+Session ID: 7b0c4bb1-7868-4481-ab6e-c621f7fdb822]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: Element <a href="javascript:void(0);"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [7b0c4bb1-7868-4481-ab6e-c621f7fdb822, clickElement {id=328b80bc-4986-474b-9892-6ab578c0b07b}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 14068, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (7b0c4bb1-7868-4481-ab6e-c621f7fdb822)] -> xpath: //a[text()='₹ 50 Lac - ₹ 1 Cr']]
+Session ID: 7b0c4bb1-7868-4481-ab6e-c621f7fdb822
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)
+at com.stepDefinition.BackGround.user_should_be_able_to_click_on_budget_in_buy_link(BackGround.java:24)
+at ✽.user should be able to click on budget in buy link(file:///C:/Users/N%20ANOOHYA/eclipse-workspace/MagicBricksBuy/./src/test/resources/featureData/Background.feature:8)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+            <line>
+              <![CDATA[The Browser should be launched and URL should be navigated]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on location]]>
+            </line>
+            <line>
+              <![CDATA[click on pune city]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on Buy link]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@279fedbd]" started-at="2024-11-13T18:21:38 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T18:22:23 IST" duration-ms="44377" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user can access properties filtered by developer option"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Property Filtering"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[Element <a href="javascript:void(0);"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [c4223000-ca75-4611-af81-0b9b5202fdc8, clickElement {id=4a3d2147-4651-43f4-9758-8645d904d93e}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 18548, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (c4223000-ca75-4611-af81-0b9b5202fdc8)] -> xpath: //a[text()='₹ 50 Lac - ₹ 1 Cr']]
+Session ID: c4223000-ca75-4611-af81-0b9b5202fdc8]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: Element <a href="javascript:void(0);"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [c4223000-ca75-4611-af81-0b9b5202fdc8, clickElement {id=4a3d2147-4651-43f4-9758-8645d904d93e}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 18548, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (c4223000-ca75-4611-af81-0b9b5202fdc8)] -> xpath: //a[text()='₹ 50 Lac - ₹ 1 Cr']]
+Session ID: c4223000-ca75-4611-af81-0b9b5202fdc8
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)
+at com.stepDefinition.BackGround.user_should_be_able_to_click_on_budget_in_buy_link(BackGround.java:24)
+at ✽.user should be able to click on budget in buy link(file:///C:/Users/N%20ANOOHYA/eclipse-workspace/MagicBricksBuy/./src/test/resources/featureData/Background.feature:8)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+            <line>
+              <![CDATA[The Browser should be launched and URL should be navigated]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on location]]>
+            </line>
+            <line>
+              <![CDATA[click on pune city]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on Buy link]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@279fedbd]" started-at="2024-11-13T18:22:23 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T18:23:02 IST" duration-ms="39101" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate that the user should be able to mouse hover on Buy link"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Buy"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[The Browser should be launched and URL should be navigated]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on location]]>
+            </line>
+            <line>
+              <![CDATA[click on pune city]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on Buy link]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to see sub-options in Buy link should be displayed]]>
+            </line>
+            <line>
+              <![CDATA[Browser should be closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@279fedbd]" started-at="2024-11-13T18:23:02 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T18:23:47 IST" duration-ms="44744" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user is able to navigate to office space property for sale with the given location."]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Office Space"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[Element <a href="javascript:void(0);"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [e2639682-ce4f-4ccc-b451-e2e115a29f40, clickElement {id=95b64400-bfa3-4750-99f4-57f3908055c4}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 17104, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (e2639682-ce4f-4ccc-b451-e2e115a29f40)] -> xpath: (//a[text()='Office Space in Pune'])[1]]
+Session ID: e2639682-ce4f-4ccc-b451-e2e115a29f40]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: Element <a href="javascript:void(0);"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [e2639682-ce4f-4ccc-b451-e2e115a29f40, clickElement {id=95b64400-bfa3-4750-99f4-57f3908055c4}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 17104, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (e2639682-ce4f-4ccc-b451-e2e115a29f40)] -> xpath: (//a[text()='Office Space in Pune'])[1]]
+Session ID: e2639682-ce4f-4ccc-b451-e2e115a29f40
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)
+at com.stepDefinition.OfficeSpace.user_should_be_able_to_click_on_office_space_in_buy_link(OfficeSpace.java:24)
+at ✽.user should be able to click on office space in buy link(file:///C:/Users/N%20ANOOHYA/eclipse-workspace/MagicBricksBuy/./src/test/resources/featureData/OfficeSpace.feature:9)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+            <line>
+              <![CDATA[The Browser should be launched and URL should be navigated]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on location]]>
+            </line>
+            <line>
+              <![CDATA[click on pune city]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on Buy link]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@279fedbd]" started-at="2024-11-13T18:23:47 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T18:24:51 IST" duration-ms="64243" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user is able to navigate to plot property with the given location."]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Plot"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: //a[text()='Plot in Pune']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [9a39f92f-3055-44b5-8a2a-244b8c7e2541, findElement {using=xpath, value=//a[text()='Plot in Pune']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 20192, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 9a39f92f-3055-44b5-8a2a-244b8c7e2541]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[text()='Plot in Pune']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [9a39f92f-3055-44b5-8a2a-244b8c7e2541, findElement {using=xpath, value=//a[text()='Plot in Pune']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 20192, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 9a39f92f-3055-44b5-8a2a-244b8c7e2541
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)
+at com.stepDefinition.Plot.user_should_be_able_to_click_on_plot_in_buy_link(Plot.java:24)
+at ✽.user should be able to click on plot in buy link(file:///C:/Users/N%20ANOOHYA/eclipse-workspace/MagicBricksBuy/./src/test/resources/featureData/Plot.feature:9)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[The Browser should be launched and URL should be navigated]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on location]]>
+            </line>
+            <line>
+              <![CDATA[click on pune city]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on Buy link]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@279fedbd]" started-at="2024-11-13T18:24:51 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T18:26:11 IST" duration-ms="79695" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user should be able to filter the properties for house in property type"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Property type House Filtering"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[The Browser should be launched and URL should be navigated]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on location]]>
+            </line>
+            <line>
+              <![CDATA[click on pune city]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on Buy link]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to click on House for sale in buy link]]>
+            </line>
+            <line>
+              <![CDATA[User should be able to navigate to house for sale page]]>
+            </line>
+            <line>
+              <![CDATA[user should click on top localities]]>
+            </line>
+            <line>
+              <![CDATA[Kalyani Nagar option selected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@279fedbd]" started-at="2024-11-13T18:26:11 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T18:27:10 IST" duration-ms="59786" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user should be able to filter the properties for house in property type"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Property type House Filtering"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[The Browser should be launched and URL should be navigated]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on location]]>
+            </line>
+            <line>
+              <![CDATA[click on pune city]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on Buy link]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to click on House for sale in buy link]]>
+            </line>
+            <line>
+              <![CDATA[User should be able to navigate to house for sale page]]>
+            </line>
+            <line>
+              <![CDATA[user should click on top localities]]>
+            </line>
+            <line>
+              <![CDATA[NIBM Road option selected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@279fedbd]" started-at="2024-11-13T18:27:10 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T18:28:31 IST" duration-ms="80905" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user should be able to filter the properties for house in property type"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Property type House Filtering"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: (//div[text()='Top Localities'])[1]
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [9c6998fd-9260-4c33-94b9-fb6a20c2fbd8, findElement {using=xpath, value=(//div[text()='Top Localities'])[1]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 2656, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 9c6998fd-9260-4c33-94b9-fb6a20c2fbd8]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: (//div[text()='Top Localities'])[1]
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [9c6998fd-9260-4c33-94b9-fb6a20c2fbd8, findElement {using=xpath, value=(//div[text()='Top Localities'])[1]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 2656, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 9c6998fd-9260-4c33-94b9-fb6a20c2fbd8
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)
+at com.stepDefinition.Search.user_should_click_on_top_localities(Search.java:47)
+at ✽.user should click on top localities(file:///C:/Users/N%20ANOOHYA/eclipse-workspace/MagicBricksBuy/./src/test/resources/featureData/Search.feature:10)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[The Browser should be launched and URL should be navigated]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on location]]>
+            </line>
+            <line>
+              <![CDATA[click on pune city]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on Buy link]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to click on House for sale in buy link]]>
+            </line>
+            <line>
+              <![CDATA[User should be able to navigate to house for sale page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@279fedbd]" started-at="2024-11-13T18:28:31 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T18:28:59 IST" duration-ms="27515" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate that the user can sign in to the application"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["To SignUp"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[Element <a class="signup-link" href="javascript:void(0)"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [63182375-cb98-4a5e-b14e-cdee0de27678, clickElement {id=fc9f452e-71d7-4e8e-9fbd-764f152114e1}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 18284, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (63182375-cb98-4a5e-b14e-cdee0de27678)] -> xpath: //a[text()='Sign Up']]
+Session ID: 63182375-cb98-4a5e-b14e-cdee0de27678]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: Element <a class="signup-link" href="javascript:void(0)"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [63182375-cb98-4a5e-b14e-cdee0de27678, clickElement {id=fc9f452e-71d7-4e8e-9fbd-764f152114e1}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 18284, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (63182375-cb98-4a5e-b14e-cdee0de27678)] -> xpath: //a[text()='Sign Up']]
+Session ID: 63182375-cb98-4a5e-b14e-cdee0de27678
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)
+at com.stepDefinition.SignUp.the_user_should_be_able_to_hover_on_login_link_and_click_on_sign_up_link(SignUp.java:23)
+at ✽.The user should be able to hover on login link and click on sign up link(file:///C:/Users/N%20ANOOHYA/eclipse-workspace/MagicBricksBuy/./src/test/resources/featureData/SignUp.feature:6)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+            <line>
+              <![CDATA[The Browser should be launched and URL should be navigated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@279fedbd]" started-at="2024-11-13T18:28:59 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T18:30:27 IST" duration-ms="88277" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user is able to select new projecs in villa for sale"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Villa"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[The Browser should be launched and URL should be navigated]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on location]]>
+            </line>
+            <line>
+              <![CDATA[click on pune city]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to mouse hover on Buy link]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to click on villa in buy link]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to navigate to villa page]]>
+            </line>
+            <line>
+              <![CDATA[user should be able to click on new projects]]>
+            </line>
+            <line>
+              <![CDATA[user is navigated to new projects page]]>
+            </line>
+            <line>
+              <![CDATA[user should click on project directory and it displays all new projects]]>
+            </line>
+            <line>
+              <![CDATA[user should click on filter and click on select city]]>
+            </line>
+            <line>
+              <![CDATA[user should select BHK and click on view projects and it displays hotspots]]>
+            </line>
+            <line>
+              <![CDATA[user should click on ready to move and select any one hotspots provided below]]>
+            </line>
+            <line>
+              <![CDATA[user is navigated to the new hotspots property page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.runners.CucumberRunner@279fedbd]" started-at="2024-11-13T18:30:27 IST" name="tearDownClass" finished-at="2024-11-13T18:30:28 IST" duration-ms="1245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.runners.CucumberRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

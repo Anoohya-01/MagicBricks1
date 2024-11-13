@@ -1,0 +1,1391 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title></title>
+<link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@b00a2d0486596e73dd7326beacf352c639623a0e/commons/img/logo.png">
+<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@b00a2d0486596e73dd7326beacf352c639623a0e/commons/img/logo.png">
+<link href="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@d6562a79075e061305ccfdb82f01e5e195e2d307/spark/css/spark-style.css" rel="stylesheet" />
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@7cc78ce/spark/js/jsontree.js"></script>
+<style type="text/css"></style></head><body class="spa bdd-report standard">
+  <div class="app">
+    <div class="layout">
+<div class="header navbar">
+<div class="vheader">
+<div class="nav-logo">
+<a href="#">
+<div class="logo" style="background-image: url('https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@b00a2d0486596e73dd7326beacf352c639623a0e/commons/img/logo.png')"></div>
+</a>
+</div>
+<ul class="nav-left">
+<li class="search-box">
+<a class="search-toggle" href="#">
+<i class="search-icon fa fa-search"></i>
+<i class="search-icon-close fa fa-close"></i>
+</a>
+</li>
+<li class="search-input"><input id="search-tests" class="form-control" type="text" placeholder="Search..."></li>
+</ul>
+<ul class="nav-right">
+<li class="m-r-10">
+<a href="#"><span class="badge badge-primary"></span></a>
+</li>
+<li class="m-r-10">
+<a href="#"><span class="badge badge-primary">Nov 13, 2024 06:19:50 pm</span></a>
+</li>
+</ul>
+</div>
+</div><div class="side-nav">
+<div class="side-nav-inner">
+<ul class="side-nav-menu">
+<li class="nav-item dropdown" onclick="toggleView('test-view')">
+<a id="nav-test" class="dropdown-toggle" href="#">
+<span class="ico"><i class="fa fa-list"></i></span>
+</a>
+</li>
+<li class="nav-item dropdown" onclick="toggleView('exception-view')">
+<a id="nav-exception" class="dropdown-toggle" href="#">
+<span class="ico"><i class="fa fa-bug"></i></span>
+</a>
+</li>
+<li class="nav-item dropdown" onclick="toggleView('dashboard-view')">
+<a id="nav-dashboard" class="dropdown-toggle" href="#">
+<span class="ico"><i class="fa fa-bar-chart"></i></span>
+</a>
+</li>
+</ul>
+</div>
+</div>      <div class="vcontainer">
+        <div class="main-content">
+<div class="test-wrapper row view test-view">
+  <div class="test-list">
+    <div class="test-list-tools">
+<ul class="tools pull-left">
+<li><a href="#"><span class="font-size-14">Tests</span></a></li>
+</ul>
+<ul class="tools text-right">
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-exclamation-circle"></i></a>
+<ul id="status-toggle" class="dropdown-menu dropdown-md p-v-0">
+<a class="dropdown-item" status="pass" href="#"><span>Pass</span><span class="status success"></span></a>
+<a class="dropdown-item" status="fail" href="#"><span>Fail</span><span class="status danger"></span></a>
+<div class="dropdown-divider"></div>
+<a status="clear" class="dropdown-item" href="#"><span>Clear</span><span class="pull-right"><i class="fa fa-close"></i></span></a>
+</ul>
+</li>
+</ul>
+</div>    <div class="test-list-wrapper scrollable">
+      <ul class="test-list-item">
+        <li class="test-item"  status="fail" test-id="1"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Property Filtering</p>
+            <p class="text-sm">
+              <span>6:19:51 pm</span> / <span>00:02:31:456</span>
+              <span class="badge fail-bg log float-right">Fail</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-fail">Property Filtering</h5>
+<span class='badge badge-success'>11.13.2024 6:19:51 pm</span>
+<span class='badge badge-danger'>11.13.2024 6:22:23 pm</span>
+<span class='badge badge-default'>00:02:31:456</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=1</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="2"><span class="badge log fail-bg mr-2">Fail</span>Validate user can access properties filtered by owners option</div>
+      </div>
+    </div>
+        <div class="">
+          <div class="card-body">
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.browser_shuold_be_launched_and_url_should_be_navigated()">
+                <span>Given Browser should be launched and URL should be navigated</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_mouse_hover_on_location()">
+                <span>When user should be able to mouse hover on location</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.click_on_pune_city()">
+                <span>And click on pune city</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_mouse_hover_on_buy_link()">
+                <span>And user should be able to mouse hover on Buy link</span>
+      <div>
+      </div>
+              </div>
+              <div class="step fail-bg" title="com.stepDefinition.BackGround.user_should_be_able_to_click_on_budget_in_buy_link()">
+                <span>And user should be able to click on budget in buy link</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.ElementNotInteractableException: Element <a href="javascript:void(0);"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [73bceee7-179f-48da-a4b8-92259d3511e6, clickElement {id=b6b1b6cf-573e-4c2c-b0b3-e3f47f87c999}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 19024, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (73bceee7-179f-48da-a4b8-92259d3511e6)] -> xpath: //a[text()='₹ 50 Lac - ₹ 1 Cr']]
+Session ID: 73bceee7-179f-48da-a4b8-92259d3511e6
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)
+	at com.stepDefinition.BackGround.user_should_be_able_to_click_on_budget_in_buy_link(BackGround.java:24)
+	at ✽.user should be able to click on budget in buy link(file:///C:/Users/N%20ANOOHYA/eclipse-workspace/MagicBricksBuy/./src/test/resources/featureData/Background.feature:8)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_should_be_able_to_navigate_to_properties_page()">
+                <span>And user should be able to navigate to properties page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_should_be_able_to_click_on_posted_by_filter()">
+                <span>And user should be able to click on posted by filter</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_should_select_owners_and_click_on_done()">
+                <span>And user should select owners and click on done</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_should_be_able_to_select_any_one_property_provided_below_based_on_the_given_type()">
+                <span>And user should be able to select any one property provided below based on the given type</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_is_navigated_to_the_required_property_page()">
+                <span>Then user is navigated to the required property page</span>
+      <div>Step skipped
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="15"><span class="badge log fail-bg mr-2">Fail</span>Validate user can access properties filtered by brokers option</div>
+      </div>
+    </div>
+        <div class="">
+          <div class="card-body">
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.browser_shuold_be_launched_and_url_should_be_navigated()">
+                <span>Given Browser should be launched and URL should be navigated</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_mouse_hover_on_location()">
+                <span>When user should be able to mouse hover on location</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.click_on_pune_city()">
+                <span>And click on pune city</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_mouse_hover_on_buy_link()">
+                <span>And user should be able to mouse hover on Buy link</span>
+      <div>
+      </div>
+              </div>
+              <div class="step fail-bg" title="com.stepDefinition.BackGround.user_should_be_able_to_click_on_budget_in_buy_link()">
+                <span>And user should be able to click on budget in buy link</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.ElementNotInteractableException: Element <a href="javascript:void(0);"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [7b0c4bb1-7868-4481-ab6e-c621f7fdb822, clickElement {id=328b80bc-4986-474b-9892-6ab578c0b07b}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 14068, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (7b0c4bb1-7868-4481-ab6e-c621f7fdb822)] -> xpath: //a[text()='₹ 50 Lac - ₹ 1 Cr']]
+Session ID: 7b0c4bb1-7868-4481-ab6e-c621f7fdb822
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)
+	at com.stepDefinition.BackGround.user_should_be_able_to_click_on_budget_in_buy_link(BackGround.java:24)
+	at ✽.user should be able to click on budget in buy link(file:///C:/Users/N%20ANOOHYA/eclipse-workspace/MagicBricksBuy/./src/test/resources/featureData/Background.feature:8)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_should_be_able_to_navigate_to_properties_page()">
+                <span>And user should be able to navigate to properties page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_should_be_able_to_click_on_posted_by_filter()">
+                <span>And user should be able to click on posted by filter</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_should_select_brokers_and_click_on_done()">
+                <span>And user should select brokers and click on done</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_should_be_able_to_select_any_one_property_provided_below_based_on_the_given_type()">
+                <span>And user should be able to select any one property provided below based on the given type</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_is_navigated_to_the_required_property_page()">
+                <span>Then user is navigated to the required property page</span>
+      <div>Step skipped
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="28"><span class="badge log fail-bg mr-2">Fail</span>Validate user can access properties filtered by developer option</div>
+      </div>
+    </div>
+        <div class="">
+          <div class="card-body">
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.browser_shuold_be_launched_and_url_should_be_navigated()">
+                <span>Given Browser should be launched and URL should be navigated</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_mouse_hover_on_location()">
+                <span>When user should be able to mouse hover on location</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.click_on_pune_city()">
+                <span>And click on pune city</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_mouse_hover_on_buy_link()">
+                <span>And user should be able to mouse hover on Buy link</span>
+      <div>
+      </div>
+              </div>
+              <div class="step fail-bg" title="com.stepDefinition.BackGround.user_should_be_able_to_click_on_budget_in_buy_link()">
+                <span>And user should be able to click on budget in buy link</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.ElementNotInteractableException: Element <a href="javascript:void(0);"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [c4223000-ca75-4611-af81-0b9b5202fdc8, clickElement {id=4a3d2147-4651-43f4-9758-8645d904d93e}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 18548, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (c4223000-ca75-4611-af81-0b9b5202fdc8)] -> xpath: //a[text()='₹ 50 Lac - ₹ 1 Cr']]
+Session ID: c4223000-ca75-4611-af81-0b9b5202fdc8
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)
+	at com.stepDefinition.BackGround.user_should_be_able_to_click_on_budget_in_buy_link(BackGround.java:24)
+	at ✽.user should be able to click on budget in buy link(file:///C:/Users/N%20ANOOHYA/eclipse-workspace/MagicBricksBuy/./src/test/resources/featureData/Background.feature:8)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_should_be_able_to_navigate_to_properties_page()">
+                <span>And user should be able to navigate to properties page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_should_be_able_to_click_on_posted_by_filter()">
+                <span>And user should be able to click on posted by filter</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_should_select_developer_and_click_on_done()">
+                <span>And user should select developer and click on done</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_should_be_able_to_select_any_one_property_provided_below_based_on_the_given_type()">
+                <span>And user should be able to select any one property provided below based on the given type</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BackGround.user_is_navigated_to_the_required_property_page()">
+                <span>Then user is navigated to the required property page</span>
+      <div>Step skipped
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="pass" test-id="41"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Buy</p>
+            <p class="text-sm">
+              <span>6:22:23 pm</span> / <span>00:00:39:090</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">Buy</h5>
+<span class='badge badge-success'>11.13.2024 6:22:23 pm</span>
+<span class='badge badge-danger'>11.13.2024 6:23:02 pm</span>
+<span class='badge badge-default'>00:00:39:090</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=41</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="42"><span class="badge log pass-bg mr-2">Pass</span>Validate that the user should be able to mouse hover on Buy link</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.browser_shuold_be_launched_and_url_should_be_navigated()">
+                <span>Given Browser should be launched and URL should be navigated</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_mouse_hover_on_location()">
+                <span>When user should be able to mouse hover on location</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.click_on_pune_city()">
+                <span>And click on pune city</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_mouse_hover_on_buy_link()">
+                <span>And user should be able to mouse hover on Buy link</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_see_sub_options_in_buy_link_should_be_displayed()">
+                <span>Then user should be able to see sub-options in Buy link should be displayed</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.browser_should_be_closed()">
+                <span>And Browser should be closed</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="fail" test-id="51"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Office Space</p>
+            <p class="text-sm">
+              <span>6:23:02 pm</span> / <span>00:00:44:734</span>
+              <span class="badge fail-bg log float-right">Fail</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-fail">Office Space</h5>
+<span class='badge badge-success'>11.13.2024 6:23:02 pm</span>
+<span class='badge badge-danger'>11.13.2024 6:23:47 pm</span>
+<span class='badge badge-default'>00:00:44:734</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=51</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="52"><span class="badge log fail-bg mr-2">Fail</span>Validate user is able to navigate to office space property for sale with the given location.</div>
+      </div>
+    </div>
+        <div class="">
+          <div class="card-body">
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.browser_shuold_be_launched_and_url_should_be_navigated()">
+                <span>Given Browser should be launched and URL should be navigated</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_mouse_hover_on_location()">
+                <span>When user should be able to mouse hover on location</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.click_on_pune_city()">
+                <span>And click on pune city</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_mouse_hover_on_buy_link()">
+                <span>And user should be able to mouse hover on Buy link</span>
+      <div>
+      </div>
+              </div>
+              <div class="step fail-bg" title="com.stepDefinition.OfficeSpace.user_should_be_able_to_click_on_office_space_in_buy_link()">
+                <span>And user should be able to click on office space in buy link</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.ElementNotInteractableException: Element <a href="javascript:void(0);"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [e2639682-ce4f-4ccc-b451-e2e115a29f40, clickElement {id=95b64400-bfa3-4750-99f4-57f3908055c4}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 17104, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (e2639682-ce4f-4ccc-b451-e2e115a29f40)] -> xpath: (//a[text()='Office Space in Pune'])[1]]
+Session ID: e2639682-ce4f-4ccc-b451-e2e115a29f40
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)
+	at com.stepDefinition.OfficeSpace.user_should_be_able_to_click_on_office_space_in_buy_link(OfficeSpace.java:24)
+	at ✽.user should be able to click on office space in buy link(file:///C:/Users/N%20ANOOHYA/eclipse-workspace/MagicBricksBuy/./src/test/resources/featureData/OfficeSpace.feature:9)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.OfficeSpace.user_should_be_able_to_navigate_to_office_space_page()">
+                <span>And user should be able to navigate to office space page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.OfficeSpace.user_should_be_able_to_click_on_property()">
+                <span>Then user should be able to click on property</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.OfficeSpace.user_should_be_able_to_navigate_to_office_space_for_sale_page()">
+                <span>And user should be able to navigate to office space for sale page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.BuyHover.browser_should_be_closed()">
+                <span>And Browser should be closed</span>
+      <div>Step skipped
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="fail" test-id="64"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Plot</p>
+            <p class="text-sm">
+              <span>6:23:47 pm</span> / <span>00:01:04:227</span>
+              <span class="badge fail-bg log float-right">Fail</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-fail">Plot</h5>
+<span class='badge badge-success'>11.13.2024 6:23:47 pm</span>
+<span class='badge badge-danger'>11.13.2024 6:24:51 pm</span>
+<span class='badge badge-default'>00:01:04:227</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=64</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="65"><span class="badge log fail-bg mr-2">Fail</span>Validate user is able to navigate to plot property with the given location.</div>
+      </div>
+    </div>
+        <div class="">
+          <div class="card-body">
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.browser_shuold_be_launched_and_url_should_be_navigated()">
+                <span>Given Browser should be launched and URL should be navigated</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_mouse_hover_on_location()">
+                <span>When user should be able to mouse hover on location</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.click_on_pune_city()">
+                <span>And click on pune city</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_mouse_hover_on_buy_link()">
+                <span>And user should be able to mouse hover on Buy link</span>
+      <div>
+      </div>
+              </div>
+              <div class="step fail-bg" title="com.stepDefinition.Plot.user_should_be_able_to_click_on_plot_in_buy_link()">
+                <span>And user should be able to click on plot in buy link</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.NoSuchElementException: Unable to locate element: //a[text()='Plot in Pune']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [9a39f92f-3055-44b5-8a2a-244b8c7e2541, findElement {using=xpath, value=//a[text()='Plot in Pune']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 20192, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 9a39f92f-3055-44b5-8a2a-244b8c7e2541
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)
+	at com.stepDefinition.Plot.user_should_be_able_to_click_on_plot_in_buy_link(Plot.java:24)
+	at ✽.user should be able to click on plot in buy link(file:///C:/Users/N%20ANOOHYA/eclipse-workspace/MagicBricksBuy/./src/test/resources/featureData/Plot.feature:9)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.Plot.user_should_be_able_to_navigate_to_plot_page()">
+                <span>And user should be able to navigate to plot page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.Plot.user_should_be_able_to_click_on_top_localities()">
+                <span>And user should be able to click on top localities</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.Plot.select_one_in_the_preferred_locations_and_click_on_done()">
+                <span>And select one in the preferred locations and click on done</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.Plot.user_should_be_able_to_select_any_one_plot_land_provided_below_based_on_the_given_type()">
+                <span>And user should be able to select any one plotland provided below based on the given type</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.Plot.user_is_navigated_to_the_required_plot_land_page()">
+                <span>Then user is navigated to the required plotland page</span>
+      <div>Step skipped
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="fail" test-id="78"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Property type House Filtering</p>
+            <p class="text-sm">
+              <span>6:24:51 pm</span> / <span>00:03:40:331</span>
+              <span class="badge fail-bg log float-right">Fail</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-fail">Property type House Filtering</h5>
+<span class='badge badge-success'>11.13.2024 6:24:51 pm</span>
+<span class='badge badge-danger'>11.13.2024 6:28:31 pm</span>
+<span class='badge badge-default'>00:03:40:331</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=78</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="79"><span class="badge log fail-bg mr-2">Fail</span>Validate user should be able to filter the properties for house in property type</div>
+      </div>
+    </div>
+        <div class="scenario_outline ">
+            <div class="card-body l1">
+              <div class="card-header">
+                <div class="card-title outline-child">
+                  <div class="node" id="80"><span class="badge log pass-bg mr-2">Pass</span>Validate user should be able to filter the properties for house in property type</div>
+                </div>
+              </div>
+              <div class="card-body mt-3 collapse">
+                  <div class="step pass-bg">
+                    <span>Given Browser should be launched and URL should be navigated</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When user should be able to mouse hover on location</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>And click on pune city</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>And user should be able to mouse hover on Buy link</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>And user should be able to click on House for sale in buy link</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>And user should be able to navigate to house for sale page</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>And user should click on top localities</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Then the user should select 1 from the top localities filter</span>
+      <div>
+      </div>
+                  </div>
+              </div>
+            </div>
+            <div class="card-body l1">
+              <div class="card-header">
+                <div class="card-title outline-child">
+                  <div class="node" id="91"><span class="badge log pass-bg mr-2">Pass</span>Validate user should be able to filter the properties for house in property type</div>
+                </div>
+              </div>
+              <div class="card-body mt-3 collapse">
+                  <div class="step pass-bg">
+                    <span>Given Browser should be launched and URL should be navigated</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When user should be able to mouse hover on location</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>And click on pune city</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>And user should be able to mouse hover on Buy link</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>And user should be able to click on House for sale in buy link</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>And user should be able to navigate to house for sale page</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>And user should click on top localities</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Then the user should select 2 from the top localities filter</span>
+      <div>
+      </div>
+                  </div>
+              </div>
+            </div>
+            <div class="card-body l1">
+              <div class="card-header">
+                <div class="card-title outline-child">
+                  <div class="node" id="102"><span class="badge log fail-bg mr-2">Fail</span>Validate user should be able to filter the properties for house in property type</div>
+                </div>
+              </div>
+              <div class="card-body mt-3 ">
+                  <div class="step pass-bg">
+                    <span>Given Browser should be launched and URL should be navigated</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When user should be able to mouse hover on location</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>And click on pune city</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>And user should be able to mouse hover on Buy link</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>And user should be able to click on House for sale in buy link</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>And user should be able to navigate to house for sale page</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step fail-bg">
+                    <span>And user should click on top localities</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.NoSuchElementException: Unable to locate element: (//div[text()='Top Localities'])[1]
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [9c6998fd-9260-4c33-94b9-fb6a20c2fbd8, findElement {using=xpath, value=(//div[text()='Top Localities'])[1]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 2656, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 9c6998fd-9260-4c33-94b9-fb6a20c2fbd8
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)
+	at com.stepDefinition.Search.user_should_click_on_top_localities(Search.java:47)
+	at ✽.user should click on top localities(file:///C:/Users/N%20ANOOHYA/eclipse-workspace/MagicBricksBuy/./src/test/resources/featureData/Search.feature:10)
+</textarea>
+      
+      </div>
+                  </div>
+                  <div class="step skip-bg">
+                    <span>Then the user should select 3 from the top localities filter</span>
+      <div>Step skipped
+      </div>
+                  </div>
+              </div>
+            </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="fail" test-id="113"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">To SignUp</p>
+            <p class="text-sm">
+              <span>6:28:31 pm</span> / <span>00:00:27:500</span>
+              <span class="badge fail-bg log float-right">Fail</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-fail">To SignUp</h5>
+<span class='badge badge-success'>11.13.2024 6:28:31 pm</span>
+<span class='badge badge-danger'>11.13.2024 6:28:59 pm</span>
+<span class='badge badge-default'>00:00:27:500</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=113</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="114"><span class="badge log fail-bg mr-2">Fail</span>Validate that the user can sign in to the application</div>
+      </div>
+    </div>
+        <div class="">
+          <div class="card-body">
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.browser_shuold_be_launched_and_url_should_be_navigated()">
+                <span>Given Browser should be launched and URL should be navigated</span>
+      <div>
+      </div>
+              </div>
+              <div class="step fail-bg" title="com.stepDefinition.SignUp.the_user_should_be_able_to_hover_on_login_link_and_click_on_sign_up_link()">
+                <span>When The user should be able to hover on login link and click on sign up link</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.ElementNotInteractableException: Element <a class="signup-link" href="javascript:void(0)"> could not be scrolled into view
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [63182375-cb98-4a5e-b14e-cdee0de27678, clickElement {id=fc9f452e-71d7-4e8e-9fbd-764f152114e1}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 132.0.2, moz:accessibilityChecks: false, moz:buildID: 20241110231641, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 18284, moz:profile: C:\Users\NANOOH~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (63182375-cb98-4a5e-b14e-cdee0de27678)] -> xpath: //a[text()='Sign Up']]
+Session ID: 63182375-cb98-4a5e-b14e-cdee0de27678
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy25.click(Unknown Source)
+	at com.stepDefinition.SignUp.the_user_should_be_able_to_hover_on_login_link_and_click_on_sign_up_link(SignUp.java:23)
+	at ✽.The user should be able to hover on login link and click on sign up link(file:///C:/Users/N%20ANOOHYA/eclipse-workspace/MagicBricksBuy/./src/test/resources/featureData/SignUp.feature:6)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.SignUp.click_on_main_sign_up_link()">
+                <span>And Click on main sign up link</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.SignUp.enter_the_valid_credentials()">
+                <span>And Enter the valid credentials</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.SignUp.click_on_sign_up_button()">
+                <span>And Click on sign up button</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.SignUp.enter_the_otp_that_is_generated_to_the_mobile_number_given()">
+                <span>And Enter the otp that is generated to the mobile number given</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="com.stepDefinition.SignUp.click_on_continue_button()">
+                <span>Then Click on continue button</span>
+      <div>Step skipped
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="pass" test-id="124"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Villa</p>
+            <p class="text-sm">
+              <span>6:28:59 pm</span> / <span>00:01:28:261</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">Villa</h5>
+<span class='badge badge-success'>11.13.2024 6:28:59 pm</span>
+<span class='badge badge-danger'>11.13.2024 6:30:27 pm</span>
+<span class='badge badge-default'>00:01:28:261</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=124</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="125"><span class="badge log pass-bg mr-2">Pass</span>Validate user is able to select new projecs in villa for sale</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.browser_shuold_be_launched_and_url_should_be_navigated()">
+                <span>Given Browser should be launched and URL should be navigated</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_mouse_hover_on_location()">
+                <span>When user should be able to mouse hover on location</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.click_on_pune_city()">
+                <span>And click on pune city</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.BuyHover.user_should_be_able_to_mouse_hover_on_buy_link()">
+                <span>And user should be able to mouse hover on Buy link</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.Villa.user_should_be_able_to_click_on_villa_in_buy_link()">
+                <span>And user should be able to click on villa in buy link</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.Villa.user_should_be_able_to_navigate_to_villa_page()">
+                <span>And user should be able to navigate to villa page</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.Villa.user_should_be_able_to_click_on_new_projects()">
+                <span>And user should be able to click on new projects</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.Villa.user_is_navigated_to_new_projects_page()">
+                <span>And user is navigated to new projects page</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.Villa.user_should_click_on_project_directory_and_it_displays_all_new_projects()">
+                <span>And user should click on project directory and it displays all new projects</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.Villa.user_should_click_on_filter_and_click_on_select_city()">
+                <span>And user should click on filter and click on select city</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.Villa.user_should_select_rest_of_mumbai_hotspots_and_click_on_view_projects_and_it_displays_hotspots()">
+                <span>And user should select BHK and click on view projects and it displays hotspots</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.Villa.user_should_click_on_ready_to_move_and_select_any_one_hotspots_provided_below()">
+                <span>And user should click on ready to move and select any one hotspots provided below</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="com.stepDefinition.Villa.user_is_navigated_to_the_new_hotspots_property_page()">
+                <span>Then user is navigated to the new hotspots property page</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+<div class="test-content scrollable">
+<div class="test-content-tools">
+<ul><li><a class="back-to-test" href="#"><i class="fa fa-arrow-left"></i></a></li></ul>
+</div>
+<div class="test-content-detail"><div class="detail-body"></div></div>
+</div></div>
+<div class="test-wrapper row view exception-view attributes-view">
+<div class="test-list">
+<div class="test-list-tools">
+<ul class="tools pull-left"><li><a href=""><span class="font-size-14">Exception</span></a></li></ul>
+<ul class="tools text-right"><li><a href="#"><span class="badge badge-primary">2</span></a></li></ul>
+</div>
+<div class="test-list-wrapper scrollable">
+<ul class="test-list-item">
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log badge-danger'>5</span>
+</span>
+<p class="name">org.openqa.selenium.ElementNotInteractableException</p>
+<p class="duration text-sm">5 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>org.openqa.selenium.ElementNotInteractableException</h4>
+<span status="fail" class='badge log badge-danger'>5 failed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>18:20:59 pm</td>
+<td>
+<a href="#" class="linked" test-id='1' id='8'>And user should be able to click on budget in buy link</a>
+<div class="">
+<span class="badge badge-default">Property Filtering.Validate user can access properties filtered by owners option.And user should be able to click on budget in buy link</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>18:21:38 pm</td>
+<td>
+<a href="#" class="linked" test-id='1' id='21'>And user should be able to click on budget in buy link</a>
+<div class="">
+<span class="badge badge-default">Property Filtering.Validate user can access properties filtered by brokers option.And user should be able to click on budget in buy link</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>18:22:23 pm</td>
+<td>
+<a href="#" class="linked" test-id='1' id='34'>And user should be able to click on budget in buy link</a>
+<div class="">
+<span class="badge badge-default">Property Filtering.Validate user can access properties filtered by developer option.And user should be able to click on budget in buy link</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>18:23:46 pm</td>
+<td>
+<a href="#" class="linked" test-id='51' id='58'>And user should be able to click on office space in buy link</a>
+<div class="">
+<span class="badge badge-default">Office Space.Validate user is able to navigate to office space property for sale with the given location..And user should be able to click on office space in buy link</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>18:28:57 pm</td>
+<td>
+<a href="#" class="linked" test-id='113' id='117'>When The user should be able to hover on login link and click on sign up link</a>
+<div class="">
+<span class="badge badge-default">To SignUp.Validate that the user can sign in to the application.When The user should be able to hover on login link and click on sign up link</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log badge-danger'>2</span>
+</span>
+<p class="name">org.openqa.selenium.NoSuchElementException</p>
+<p class="duration text-sm">2 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>org.openqa.selenium.NoSuchElementException</h4>
+<span status="fail" class='badge log badge-danger'>2 failed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>18:24:26 pm</td>
+<td>
+<a href="#" class="linked" test-id='64' id='71'>And user should be able to click on plot in buy link</a>
+<div class="">
+<span class="badge badge-default">Plot.Validate user is able to navigate to plot property with the given location..And user should be able to click on plot in buy link</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>18:28:05 pm</td>
+<td>
+<a href="#" class="linked" test-id='78' id='110'>And user should click on top localities</a>
+<div class="">
+<span class="badge badge-default">Property type House Filtering.Validate user should be able to filter the properties for house in property type.And user should click on top localities</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="test-content scrollable">
+<div class="test-content-detail">
+<div class="detail-body"></div>
+</div>
+</div>
+</div><div class="container-fluid p-4 view dashboard-view">
+<div class="row">
+<div class="col-md-3">
+<div class="card"><div class="card-body">
+<p class="m-b-0">Started</p>
+<h3>Nov 13, 2024 06:19:50 pm</h3>
+</div></div>
+</div>
+<div class="col-md-3">
+<div class="card"><div class="card-body">
+<p class="m-b-0">Ended</p>
+<h3>Nov 13, 2024 06:30:27 pm</h3>
+</div></div>
+</div>
+<div class="col-md-3">
+<div class="card"><div class="card-body">
+<p class="m-b-0 text-pass">Features Passed</p>
+<h3>2</h3>
+</div></div>
+</div>
+<div class="col-md-3">
+<div class="card"><div class="card-body">
+<p class="m-b-0 text-fail">Features Failed</p>
+<h3>5</h3>
+</div></div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="card">
+<div class="card-header">
+<h6 class="card-title">Features</h6>
+</div>
+<div class="card-body">
+<div class="">
+<canvas id='parent-analysis' width='115' height='90'></canvas>
+</div>
+</div>
+<div class="card-footer">
+<div><small data-tooltip='28%'>
+<b>2</b> features passed
+</small>
+</div>
+<div>
+<small data-tooltip='71%'><b>5</b> features failed,
+<b>0</b> skipped, <b data-tooltip='0%'>0</b> others
+</small>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card">
+<div class="card-header">
+<h6 class="card-title">Scenarios</h6>
+</div>
+<div class="card-body">
+<div class="">
+<canvas id='child-analysis' width='115' height='90'></canvas>
+</div>
+</div>
+<div class="card-footer">
+<div><small data-tooltip='36%'><b>4</b> scenarios passed</small></div>
+<div>
+<small data-tooltip='63%'><b>7</b> scenarios failed,
+<b>0</b> skipped, <b data-tooltip='%'>0</b> others
+</small>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card">
+<div class="card-header">
+<h6 class="card-title">Steps</h6>
+</div>
+<div class="card-body">
+<div class="">
+<canvas id='grandchild-analysis' width='115' height='90'></canvas>
+</div>
+</div>
+<div class="card-footer">
+<div><small data-tooltip='62%'><b>62</b> steps passed</small></div>
+<div>
+<small data-tooltip='7%'><b>7</b> steps failed,
+<b>30</b> skipped, <b data-tooltip='%'>0</b> others
+</small>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row"><div class="col-md-12">
+<div class="card"><div class="card-header"><p>Timeline</p></div>
+<div class="card-body pt-0"><div>
+<canvas id="timeline" height="120"></canvas>
+</div></div>
+</div>
+</div></div>
+<script>
+var timeline = {
+"Property Filtering":151.456,"Buy":39.09,"Office Space":44.734,"Plot":64.227,"Property type House Filtering":220.331,"To SignUp":27.5,"Villa":88.261
+};
+</script>
+<div class="row">
+</div>
+</div>
+<script>
+var statusGroup = {
+parentCount: 5,
+passParent: 2,
+failParent: 5,
+warningParent: 0,
+skipParent: 0,
+childCount: 5,
+passChild: 4,
+failChild: 7,
+warningChild: 0,
+skipChild: 0,
+infoChild: 0,
+grandChildCount: 5,
+passGrandChild: 62,
+failGrandChild: 7,
+warningGrandChild: 0,
+skipGrandChild: 30,
+infoGrandChild: 0,
+eventsCount: 5,
+};
+</script>        </div>
+      </div>
+    </div>
+  </div>
+<script src="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@d6562a79075e061305ccfdb82f01e5e195e2d307/spark/js/spark-script.js"></script>
+<script type="text/javascript"></script></body>
+</html>
